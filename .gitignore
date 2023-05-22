@@ -1,6 +1,7 @@
-/src/
+```
 *.exe
 *.dll
 *.pdb
 *.zip
 *.rar
+```
